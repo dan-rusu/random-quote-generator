@@ -30,7 +30,7 @@
 				<div class="quote-source pull-left" id="quote-source"></div>
 			</div>
 			<br/>
-			<div class="row"><button type="button" class="btn btn-success btn-lg btn3d" id="quote-button"><i class="fa fa-commenting"></i> Generate New Qoute</button></div>
+			<div class="row"><button type="button" class="btn btn-success btn-lg btn3d" id="quote-button"><i class="fa fa-commenting"></i> Generate New Quote</button></div>
 
 			<div class="row" style="text-align: center">
 				<a class="btn btn-social btn-twitter" id="tweet-it">
