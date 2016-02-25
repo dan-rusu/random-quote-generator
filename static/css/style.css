@@ -13,6 +13,8 @@ header > h1{
 	color: #ECF0F1;
 }
 
+
+
 .quote-container{
 	text-align: center;
 	max-width: 50%;
@@ -27,6 +29,7 @@ header > h1{
 	-webkit-border-radius: 18px 18px 18px 18px;
 	border: 4px solid #2C3E50;
 }
+
 
 .quote-content{
 	font-weight: bold;
@@ -78,4 +81,21 @@ header > h1{
 .customised{
 	margin-right: 3px;
 	margin-left: 3px;
+}
+
+@media only screen and (max-width : 768px) {
+	.quote-container{
+		text-align: center;
+		max-width: 96%;
+		border-top: 5px solid #34495E;
+		border-radius: 20px;
+		padding: 20px;
+		background-color:rgba(236, 240, 241, 0.3);
+		margin-left: 2%;
+		color: #2B2B2B;
+		border-radius: 18px 18px 18px 18px;
+		-moz-border-radius: 18px 18px 18px 18px;
+		-webkit-border-radius: 18px 18px 18px 18px;
+		border: 4px solid #2C3E50;
+	}
 }
