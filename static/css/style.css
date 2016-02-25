@@ -103,5 +103,6 @@ header > h1{
 	font-size: 3.7em;
 	text-shadow: 0 0 3px #FBFF6A;
 	color: #ECF0F1;
+	visibility: hidden;
 }
 }
