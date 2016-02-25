@@ -38,7 +38,19 @@
       			</a>
 			</div>
 
-		</div>	
+		</div>
+
+		<footer class="text-center footer">
+	        <div class="footer-below">
+	            <div class="container">
+	                <div class="row">
+	                    <div class="col-lg-12">
+	                        Copyright &copy; <a href="http://dan-rusu.herokuapp.com">Dan Rusu</a> 2016
+	                    </div>
+	                </div>
+	            </div>
+	        </div>
+    	</footer>	
 
 
 		<script>
