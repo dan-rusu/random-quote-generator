@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">	
+		<meta name="viewport" content="width=device-width, shrink-to-fit=no">	
 		<meta name="author" content="Dan Andrei Rusu">
 		<link rel='shortcut icon' type='image/x-icon' href='static/img/quotegen.ico' />
 
@@ -19,7 +19,7 @@
 
 	<body>
 		<header>
-			<h1>Qoute Dispatcher</h1>
+			<h1>Quote Dispatcher</h1>
 		</header>
 		<br/>
 
